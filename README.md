@@ -1,2 +1,2 @@
 # palawan-flying
-my site <a href="www.palawanflying.com">palawanflying.com</a>
+my site <a href="http://www.palawanflying.com" target="_BLANK">palawanflying.com</a>
